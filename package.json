@@ -18,6 +18,7 @@
   "react-dom": "^16.8.6"
  },
  "devDependencies": {
+  "@umijs/fabric": "^2.4.9",
   "babel-cli": "^6.26.0",
   "babel-core": "^6.26.3",
   "babel-loader": "^7.1.4",
